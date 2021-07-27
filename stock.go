@@ -21,7 +21,7 @@ func main() {
 
         if smbl == "GME" {
                 fmt.Print("DIAMOND HANDS!!!\n")
-
+	}
 	fmt.Printf("------- %v -------\n", q.ShortName)
 	fmt.Printf("Current Price: $%v\n", q.Ask)
         fmt.Printf("52wk High: $%v\n", q.FiftyTwoWeekHigh)
